@@ -1,6 +1,6 @@
 import vk_api, time
 
-vk_session = vk_api.VkApi('+79627460408', 'oroboz13')
+vk_session = vk_api.VkApi('+79627460408', 'oroz13')
 vk_session.auth()
 
 vk = vk_session.get_api()
